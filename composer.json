@@ -1,5 +1,5 @@
 {
-    "name": "jane/open-api",
+    "name": "wboyz/open-api",
     "description": "Generate a PHP Client API (PSR7 compatible) given a OpenApi (Swagger) specification",
     "type": "library",
     "keywords": ["jane", "swagger", "openapi"],
